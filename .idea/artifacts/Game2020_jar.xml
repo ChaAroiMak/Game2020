@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Game2020:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game2020_jar</output-path>
+    <root id="archive" name="Game2020.jar">
+      <element id="module-output" name="Game2020" />
+    </root>
+  </artifact>
+</component>
